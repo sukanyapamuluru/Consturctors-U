@@ -13,6 +13,10 @@ public class Student {
 			
 		}
 		
+		
+		
+		
+		
 		void display() {
 			System.out.println(name);
 			System.out.println(rollNo);
